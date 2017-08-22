@@ -1,0 +1,17 @@
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+target/
+
+#Subversion files
+.svn
+
+#target folder
+*.class
+
+#Tooling
+_ReSharper*/
+*.resharper
+[Tt]est[Rr]esult*
+
+/.apt_generated
